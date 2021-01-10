@@ -3,8 +3,8 @@ buildscript {
         kotlinVersion = '1.2.41'
         dokkaVersion = '0.9.17'
         projectVersion = '1.1.0'
-//        jraw = 'com.github.mattbdean:JRAW:master-SNAPSHOT'
-        jraw = "net.dean.jraw:JRAW:${projectVersion}"
+        jraw = 'com.github.mueea001:JRAW:master-SNAPSHOT'
+//        jraw = "net.dean.jraw:JRAW:${projectVersion}"
     }
     repositories {
         google()
