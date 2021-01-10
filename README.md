@@ -1,11 +1,12 @@
 # JRAW-Android
 
-[![travis-ci build status](https://img.shields.io/travis/mattbdean/JRAW-Android.svg)](https://travis-ci.org/mattbdean/JRAW-Android)
-[![Latest release](https://img.shields.io/github/release/mattbdean/JRAW.svg)](https://bintray.com/thatjavanerd/maven/JRAW-Android/_latestVersion)
+[![](https://jitpack.io/v/mueea001/JRAW-Android.svg)](https://jitpack.io/#mueea001/JRAW-Android)
 [![Kotlin 1.2.41](https://img.shields.io/badge/Kotlin-1.2.41-blue.svg)](http://kotlinlang.org)
-[![Codecov](https://img.shields.io/codecov/c/github/mattbdean/JRAW-Android.svg)](https://codecov.io/gh/mattbdean/JRAW-Android)
+<!--[![travis-ci build status](https://img.shields.io/travis/mattbdean/JRAW-Android.svg)](https://travis-ci.org/mattbdean/JRAW-Android)
+[![Latest release](https://img.shields.io/github/release/mattbdean/JRAW.svg)](https://bintray.com/thatjavanerd/maven/JRAW-Android/_latestVersion)
+[![Codecov](https://img.shields.io/codecov/c/github/mattbdean/JRAW-Android.svg)](https://codecov.io/gh/mattbdean/JRAW-Android)-->
 
-This is an extension to the [Java Reddit API Wrapper](https://github.com/mattbdean/JRAW) that adds some Android-specific classes.
+This is an extension to the [Java Reddit API Wrapper](https://github.com/mueea001/JRAW) that adds some Android-specific classes.
 
 ## Getting Started
 
